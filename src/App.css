@@ -486,7 +486,7 @@
 
 @media (min-width: 768px) {
   .timer-display {
-    padding: 40px 50px;
+    padding: 40px 5px;
     border-radius: 32px;
   }
 }
